@@ -148,5 +148,5 @@ function playGame() {
 
 let thisGame;
 
-console.log(`Let's start the game!`);
-startGame();
+// console.log(`Let's start the game!`);
+// startGame();
